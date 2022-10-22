@@ -1,0 +1,3 @@
+• As a shelter manager, I want to register all the adoptable dogs / cats with their informations, so that they can find a home.
+• As a logged user, I want to save a specific dog / cat that caught my attention, so that I can maintain a list of dogs / cats that I might adopt.
+• As a shelter manager, I want to provide a wish list of products on Amazon, so that people can donate them to my dogs / cats.
